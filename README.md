@@ -4,13 +4,13 @@ Bem-vindo ao To-Do List em React! Este é um aplicativo simples para ajudá-lo a
 
  ## Funcionalidades:
  
-  Adicione novas tarefas;
+  Adicionar novas tarefas;
   
-  Marque as tarefas como concluídas;
+  Marcar as tarefas como concluídas;
   
-  Exclua tarefas;
+  Excluir tarefas;
   
-  Orgamize em ordem alfabética;
+  Organizar em ordem alfabética;
   
   Pesquisar tarefas por palavras-chave;
 
